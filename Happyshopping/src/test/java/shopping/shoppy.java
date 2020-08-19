@@ -7,6 +7,7 @@ public class shoppy {
 	public void test1()
 	{
 		System.out.println("first test");
+		System.out.println("first test2");
 	}
 	@Test
 	public void test2()
